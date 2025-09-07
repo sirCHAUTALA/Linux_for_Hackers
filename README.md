@@ -17,6 +17,11 @@ Here are some of the commands I practiced:
 - Stands for **Change Directory**.
 - Used to navigate between folders.
 
+3. ls
+
+- Stands for **Listing**.
+- Displays the contents (files and directories) of the current folder.
+
 Example:
 
 ## 📋 Quick Reference Table
