@@ -22,7 +22,7 @@ Here are some of the commands I practiced:
 - Stands for **Listing**.
 - Displays the contents (files and directories) of the current folder.
 
-Example:
+<img width="1919" height="1079" alt="Screenshot 2025-09-07 163319" src="https://github.com/user-attachments/assets/b42adcd8-031d-4c49-b6ec-e0fa03ae81ee" />
 
 ## 📋 Quick Reference Table
 
